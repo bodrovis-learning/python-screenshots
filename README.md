@@ -7,6 +7,8 @@ A dead simple Python script to create screenshots. Written mostly for demonstrat
 * Pillow
 * Built-in modules (OS, Sys, Datetime)
 
+How this program was built (Russian): https://www.youtube.com/watch?v=rJe_osIzqUY
+
 ## How to use it
 
 Run
