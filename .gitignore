@@ -1,1 +1,5 @@
 .keep
+build/
+dist/
+screenshots.spec
+screens/
